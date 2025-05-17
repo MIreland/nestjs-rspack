@@ -148,6 +148,7 @@
     "@graphql-codegen/visitor-plugin-common": "4.0.1",
     "@graphql-hive/cli": "0.35.0",
     "@jest/globals": "29.5.0",
+    "@mapbox/node-pre-gyp":"1.0.11",
     "@swc/cli": "0.7.3",
     "@swc/core": "1.11.20",
     "@swc/helpers": "0.5.17",
